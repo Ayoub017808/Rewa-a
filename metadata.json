@@ -1,0 +1,7 @@
+{
+  "name": "RIWAA - رواء الصحي الذكي",
+  "description": "نظام صحي ذكي للتحقق من دقة صرف الجرعات الدوائية باستخدام آلية صرف ميكانيكية واستشعار مزدوج ومنظومة طاقة وتبريد متعددة المصادر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
